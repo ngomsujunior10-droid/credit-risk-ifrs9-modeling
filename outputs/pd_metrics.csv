@@ -1,0 +1,9 @@
+,value
+roc_auc,0.8005759179733013
+accuracy,0.9685
+gini,0.6011518359466026
+average_precision,0.1258650023419043
+brier_score,0.028807876032897615
+baseline_brier,0.030039015625
+mean_predicted_pd,0.03059085565235239
+observed_default_rate,0.031
