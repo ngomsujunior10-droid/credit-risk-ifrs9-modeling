@@ -169,3 +169,8 @@ Academic background in Mathematics, Finance and Accounting.
 
 Interests: Data Science, Credit Risk, Financial Modeling
 and Banking Analytics.
+
+## Project Report
+
+[Download the full project report (French - PDF)](reports/Rapport_IFRS9_Junior_NGOMSU.pdf)
+
